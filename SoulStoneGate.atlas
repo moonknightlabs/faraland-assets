@@ -1,1867 +1,1867 @@
 
 SoulStoneGate.png
-size: 4052,3428
+size: 4065,3410
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Flame/Flame1
   rotate: true
-  xy: 1866, 22
+  xy: 1723, 24
   size: 95, 129
   orig: 102, 133
   offset: 3, 1
   index: -1
 Flame/Flame10
   rotate: true
-  xy: 889, 2055
+  xy: 3751, 33
   size: 86, 115
   orig: 91, 121
   offset: 2, 4
   index: -1
 Flame/Flame11
   rotate: true
-  xy: 3277, 54
+  xy: 3629, 36
   size: 83, 120
   orig: 91, 125
   offset: 3, 2
   index: -1
 Flame/Flame12
   rotate: true
-  xy: 2672, 45
+  xy: 2764, 27
   size: 92, 122
   orig: 100, 125
   offset: 4, 0
   index: -1
 Flame/Flame13
   rotate: true
-  xy: 2918, 46
+  xy: 3148, 28
   size: 91, 120
   orig: 97, 122
   offset: 3, 0
   index: -1
 Flame/Flame14
   rotate: true
-  xy: 3161, 47
+  xy: 3513, 29
   size: 90, 114
   orig: 106, 119
   offset: 10, 2
   index: -1
 Flame/Flame15
   rotate: true
-  xy: 2796, 45
+  xy: 3270, 27
   size: 92, 120
   orig: 101, 126
   offset: 4, 0
   index: -1
 Flame/Flame16
   rotate: true
-  xy: 1329, 16
+  xy: 1594, 18
   size: 101, 127
   orig: 112, 132
   offset: 5, 0
   index: -1
 Flame/Flame17
   rotate: false
-  xy: 3929, 2409
+  xy: 1028, 2
   size: 104, 117
   orig: 114, 123
   offset: 6, 0
   index: -1
 Flame/Flame18
   rotate: true
-  xy: 3040, 41
+  xy: 3392, 23
   size: 96, 119
   orig: 102, 125
   offset: 2, 1
   index: -1
 Flame/Flame19
   rotate: true
-  xy: 2547, 42
+  xy: 2639, 24
   size: 95, 123
   orig: 105, 128
   offset: 5, 0
   index: -1
 Flame/Flame2
   rotate: true
-  xy: 1732, 26
+  xy: 1991, 28
   size: 91, 132
   orig: 101, 137
   offset: 5, 4
   index: -1
 Flame/Flame3
   rotate: true
-  xy: 1595, 28
+  xy: 1854, 30
   size: 89, 135
   orig: 99, 137
   offset: 7, 2
   index: -1
 Flame/Flame4
-  rotate: false
-  xy: 3925, 2273
+  rotate: true
+  xy: 3929, 2817
   size: 85, 134
   orig: 95, 137
   offset: 5, 0
   index: -1
 Flame/Flame5
-  rotate: true
-  xy: 1458, 26
+  rotate: false
+  xy: 3929, 2680
   size: 91, 135
   orig: 103, 137
   offset: 6, 0
   index: -1
 Flame/Flame6
   rotate: true
-  xy: 2026, 56
+  xy: 2888, 38
   size: 81, 131
   orig: 86, 135
   offset: 2, 1
   index: -1
 Flame/Flame7
   rotate: true
-  xy: 2159, 49
+  xy: 2125, 31
   size: 88, 130
   orig: 93, 137
   offset: 3, 1
   index: -1
 Flame/Flame8
-  rotate: false
-  xy: 3925, 2165
+  rotate: true
+  xy: 3868, 32
   size: 87, 106
   orig: 94, 112
   offset: 4, 3
   index: -1
 Flame/Flame9
   rotate: true
-  xy: 2291, 49
+  xy: 2257, 31
   size: 88, 127
   orig: 99, 131
   offset: 7, 1
   index: -1
 GoldenRing_L
   rotate: false
-  xy: 2, 2031
+  xy: 2, 2013
   size: 201, 403
   orig: 201, 405
   offset: 0, 0
   index: -1
 GoldenRing_L_Light
   rotate: true
-  xy: 640, 2340
+  xy: 3892, 3181
   size: 19, 102
   orig: 24, 108
   offset: 1, 3
   index: -1
 GoldenRing_R
   rotate: true
-  xy: 704, 3224
+  xy: 704, 3206
   size: 202, 403
   orig: 202, 404
   offset: 0, 1
   index: -1
 GoldenRing_R_Light
   rotate: true
-  xy: 957, 3203
+  xy: 957, 3185
   size: 19, 103
   orig: 23, 109
   offset: 4, 3
   index: -1
 L_Chain10
-  rotate: false
-  xy: 3682, 99
+  rotate: true
+  xy: 3976, 2
   size: 37, 38
   orig: 37, 39
   offset: 0, 1
   index: -1
 L_Chain11
-  rotate: false
-  xy: 3517, 99
+  rotate: true
+  xy: 632, 3008
   size: 39, 38
   orig: 41, 38
   offset: 1, 0
   index: -1
 L_Chain2
   rotate: true
-  xy: 845, 2
+  xy: 2173, 2
   size: 27, 45
   orig: 27, 45
   offset: 0, 0
   index: -1
 L_Chain3
   rotate: false
-  xy: 632, 3021
+  xy: 269, 95
   size: 35, 44
   orig: 35, 44
   offset: 0, 0
   index: -1
 L_Chain4
-  rotate: true
-  xy: 640, 2308
+  rotate: false
+  xy: 672, 3043
   size: 30, 44
   orig: 30, 44
   offset: 0, 0
   index: -1
 L_Chain5
-  rotate: false
-  xy: 3478, 97
+  rotate: true
+  xy: 640, 2543
   size: 37, 40
   orig: 37, 41
   offset: 0, 0
   index: -1
 L_Chain6
-  rotate: true
-  xy: 855, 2420
+  rotate: false
+  xy: 3629, 2
   size: 43, 32
   orig: 43, 32
   offset: 0, 0
   index: -1
 L_Chain7
   rotate: true
-  xy: 1062, 3175
+  xy: 893, 2904
   size: 47, 29
   orig: 47, 30
   offset: 0, 1
   index: -1
 L_Chain8
-  rotate: true
-  xy: 1997, 71
+  rotate: false
+  xy: 3929, 2651
   size: 46, 27
   orig: 46, 28
   offset: 0, 1
   index: -1
 L_Chain9
   rotate: false
-  xy: 813, 2377
+  xy: 387, 2418
   size: 39, 38
   orig: 41, 38
   offset: 1, 0
   index: -1
 L_Spear1
   rotate: false
-  xy: 327, 2448
+  xy: 327, 2430
   size: 18, 287
   orig: 18, 287
   offset: 0, 0
   index: -1
 L_Spear2
   rotate: true
-  xy: 383, 3087
+  xy: 383, 3069
   size: 18, 287
   orig: 18, 287
   offset: 0, 0
   index: -1
 L_Spear3
   rotate: false
-  xy: 347, 2448
+  xy: 347, 2430
   size: 18, 287
   orig: 18, 287
   offset: 0, 0
   index: -1
 L_Spear4
   rotate: true
-  xy: 1014, 2902
+  xy: 2, 44
   size: 18, 283
   orig: 18, 283
   offset: 0, 0
   index: -1
 L_Stone1
-  rotate: false
-  xy: 3929, 2654
+  rotate: true
+  xy: 2386, 20
   size: 99, 125
   orig: 99, 125
   offset: 0, 0
   index: -1
 L_Stone2
   rotate: true
-  xy: 205, 2051
+  xy: 640, 2582
   size: 116, 175
   orig: 116, 175
   offset: 0, 0
   index: -1
 L_Torch
   rotate: true
-  xy: 640, 2361
+  xy: 3892, 3306
   size: 102, 171
   orig: 102, 171
   offset: 0, 0
   index: -1
 L_Torch_Light
   rotate: true
-  xy: 379, 2747
+  xy: 255, 327
   size: 65, 5
   orig: 66, 5
   offset: 1, 0
   index: -1
 Mid_Spear
-  rotate: true
-  xy: 205, 2169
+  rotate: false
+  xy: 2, 64
   size: 265, 176
   orig: 267, 176
   offset: 1, 0
   index: -1
 Portal/0001
   rotate: false
-  xy: 1109, 3175
+  xy: 1109, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0002
   rotate: false
-  xy: 1362, 3175
+  xy: 1362, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0003
   rotate: false
-  xy: 1615, 3175
+  xy: 1615, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0004
   rotate: false
-  xy: 1868, 3175
+  xy: 1868, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0005
   rotate: false
-  xy: 2121, 3175
+  xy: 2121, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0006
   rotate: false
-  xy: 2374, 3175
+  xy: 2374, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0007
   rotate: false
-  xy: 2627, 3175
+  xy: 2627, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0008
   rotate: false
-  xy: 2880, 3175
+  xy: 2880, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0009
   rotate: false
-  xy: 3133, 3175
+  xy: 3133, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0010
   rotate: false
-  xy: 3386, 3175
+  xy: 3386, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0011
   rotate: false
-  xy: 3639, 3175
+  xy: 3639, 3157
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0012
   rotate: false
-  xy: 2, 1778
+  xy: 2, 1760
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0013
   rotate: false
-  xy: 2, 1525
+  xy: 2, 1507
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0014
   rotate: false
-  xy: 2, 1272
+  xy: 2, 1254
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0015
   rotate: false
-  xy: 2, 1019
+  xy: 2, 1001
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0016
   rotate: false
-  xy: 2, 766
+  xy: 2, 748
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0017
   rotate: false
-  xy: 2, 513
+  xy: 2, 495
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0018
   rotate: false
-  xy: 2, 260
+  xy: 2, 242
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0019
   rotate: false
-  xy: 2, 7
+  xy: 205, 2165
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0020
   rotate: false
-  xy: 704, 2971
+  xy: 704, 2953
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0021
   rotate: false
-  xy: 957, 2922
+  xy: 957, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0022
   rotate: false
-  xy: 1210, 2922
+  xy: 1210, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0023
   rotate: false
-  xy: 1463, 2922
+  xy: 1463, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0024
   rotate: false
-  xy: 1716, 2922
+  xy: 1716, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0025
   rotate: false
-  xy: 1969, 2922
+  xy: 1969, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0026
   rotate: false
-  xy: 2222, 2922
+  xy: 2222, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0027
   rotate: false
-  xy: 2475, 2922
+  xy: 2475, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0028
   rotate: false
-  xy: 2728, 2922
+  xy: 2728, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0029
   rotate: false
-  xy: 2981, 2922
+  xy: 2981, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0030
   rotate: false
-  xy: 3234, 2922
+  xy: 3234, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0031
   rotate: false
-  xy: 3487, 2922
+  xy: 3487, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0032
   rotate: false
-  xy: 3740, 2922
+  xy: 3740, 2904
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0033
   rotate: false
-  xy: 255, 1798
+  xy: 255, 1912
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0034
   rotate: false
-  xy: 255, 1545
+  xy: 255, 1659
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0035
   rotate: false
-  xy: 255, 1292
+  xy: 255, 1406
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0036
   rotate: false
-  xy: 255, 1039
+  xy: 255, 1153
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0037
   rotate: false
-  xy: 255, 786
+  xy: 255, 900
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0038
   rotate: false
-  xy: 255, 533
+  xy: 255, 647
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0039
   rotate: false
-  xy: 255, 280
+  xy: 255, 394
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0040
   rotate: false
-  xy: 255, 27
+  xy: 269, 141
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0041
   rotate: false
-  xy: 379, 2814
+  xy: 379, 2796
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0042
   rotate: false
-  xy: 387, 2561
+  xy: 387, 2543
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0043
   rotate: false
-  xy: 387, 2308
+  xy: 458, 2290
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0044
   rotate: false
-  xy: 383, 2055
+  xy: 508, 2037
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0045
   rotate: false
-  xy: 508, 1802
+  xy: 508, 1784
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0046
   rotate: false
-  xy: 508, 1549
+  xy: 508, 1531
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0047
   rotate: false
-  xy: 508, 1296
+  xy: 508, 1278
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0048
   rotate: false
-  xy: 508, 1043
+  xy: 508, 1025
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0049
   rotate: false
-  xy: 508, 790
+  xy: 508, 772
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0050
   rotate: false
-  xy: 508, 537
+  xy: 508, 519
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0051
   rotate: false
-  xy: 508, 284
+  xy: 522, 266
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0052
   rotate: false
-  xy: 508, 31
+  xy: 522, 13
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0053
   rotate: false
-  xy: 636, 2055
+  xy: 640, 2700
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0054
   rotate: false
-  xy: 761, 1802
+  xy: 893, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0055
   rotate: false
-  xy: 761, 1549
+  xy: 1146, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0056
   rotate: false
-  xy: 761, 1296
+  xy: 1399, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0057
   rotate: false
-  xy: 761, 1043
+  xy: 1652, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0058
   rotate: false
-  xy: 761, 790
+  xy: 1905, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0059
   rotate: false
-  xy: 761, 537
+  xy: 2158, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0060
   rotate: false
-  xy: 761, 284
+  xy: 2411, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0061
   rotate: false
-  xy: 761, 31
+  xy: 2664, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0062
   rotate: false
-  xy: 640, 2718
+  xy: 2917, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0063
   rotate: false
-  xy: 640, 2465
+  xy: 3170, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0064
   rotate: false
-  xy: 893, 2649
+  xy: 3423, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0065
   rotate: false
-  xy: 1146, 2649
+  xy: 3676, 2651
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0066
   rotate: false
-  xy: 1399, 2649
+  xy: 711, 2329
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0067
   rotate: false
-  xy: 1652, 2669
+  xy: 964, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0068
   rotate: false
-  xy: 1905, 2669
+  xy: 1217, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0069
   rotate: false
-  xy: 2158, 2669
+  xy: 1470, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0070
   rotate: false
-  xy: 2411, 2669
+  xy: 1723, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0071
   rotate: false
-  xy: 2664, 2669
+  xy: 1976, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0072
   rotate: false
-  xy: 2917, 2669
+  xy: 2229, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0073
   rotate: false
-  xy: 3170, 2669
+  xy: 2482, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0074
   rotate: false
-  xy: 3423, 2669
+  xy: 2735, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0075
   rotate: false
-  xy: 3676, 2669
+  xy: 2988, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0076
   rotate: false
-  xy: 893, 2396
+  xy: 3241, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0077
   rotate: false
-  xy: 1146, 2396
+  xy: 3494, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0078
   rotate: false
-  xy: 1399, 2396
+  xy: 3747, 2398
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0079
   rotate: false
-  xy: 1652, 2416
+  xy: 761, 2076
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0080
   rotate: false
-  xy: 1905, 2416
+  xy: 761, 1823
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0081
   rotate: false
-  xy: 2158, 2416
+  xy: 761, 1570
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0082
   rotate: false
-  xy: 2411, 2416
+  xy: 761, 1317
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0083
   rotate: false
-  xy: 2664, 2416
+  xy: 761, 1064
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0084
   rotate: false
-  xy: 2917, 2416
+  xy: 761, 811
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0085
   rotate: false
-  xy: 3170, 2416
+  xy: 761, 558
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0086
   rotate: false
-  xy: 3423, 2416
+  xy: 775, 305
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0087
   rotate: false
-  xy: 3676, 2416
+  xy: 775, 52
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0088
   rotate: false
-  xy: 889, 2143
+  xy: 1014, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0089
   rotate: false
-  xy: 1142, 2143
+  xy: 1014, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0090
   rotate: false
-  xy: 1395, 2143
+  xy: 1267, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0091
   rotate: false
-  xy: 1014, 1890
+  xy: 1014, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0092
   rotate: false
-  xy: 1014, 1637
+  xy: 1267, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0093
   rotate: false
-  xy: 1267, 1890
+  xy: 1520, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0094
   rotate: false
-  xy: 1014, 1384
+  xy: 1014, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0095
   rotate: false
-  xy: 1267, 1637
+  xy: 1267, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0096
   rotate: false
-  xy: 1014, 1131
+  xy: 1520, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0097
   rotate: false
-  xy: 1267, 1384
+  xy: 1773, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0098
   rotate: false
-  xy: 1014, 878
+  xy: 1014, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0099
   rotate: false
-  xy: 1267, 1131
+  xy: 1267, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0100
   rotate: false
-  xy: 1014, 625
+  xy: 1520, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0101
   rotate: false
-  xy: 1267, 878
+  xy: 1773, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0102
   rotate: false
-  xy: 1014, 372
+  xy: 2026, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0103
   rotate: false
-  xy: 1267, 625
+  xy: 1014, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0104
   rotate: false
-  xy: 1014, 119
+  xy: 1267, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0105
   rotate: false
-  xy: 1267, 372
+  xy: 1520, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0106
   rotate: false
-  xy: 1267, 119
+  xy: 1773, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0107
   rotate: false
-  xy: 1520, 1890
+  xy: 2026, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0108
   rotate: false
-  xy: 1520, 1637
+  xy: 2279, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0109
   rotate: false
-  xy: 1520, 1384
+  xy: 1014, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0110
   rotate: false
-  xy: 1520, 1131
+  xy: 1267, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0111
   rotate: false
-  xy: 1520, 878
+  xy: 1520, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0112
   rotate: false
-  xy: 1520, 625
+  xy: 1773, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0113
   rotate: false
-  xy: 1520, 372
+  xy: 2026, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0114
   rotate: false
-  xy: 1520, 119
+  xy: 2279, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0115
   rotate: false
-  xy: 1648, 2143
+  xy: 2532, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0116
   rotate: false
-  xy: 1901, 2163
+  xy: 1267, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0117
   rotate: false
-  xy: 2154, 2163
+  xy: 1520, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0118
   rotate: false
-  xy: 2407, 2163
+  xy: 1773, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0119
   rotate: false
-  xy: 2660, 2163
+  xy: 2026, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0120
   rotate: false
-  xy: 2913, 2163
+  xy: 2279, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0121
   rotate: false
-  xy: 3166, 2163
+  xy: 2532, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0122
   rotate: false
-  xy: 3419, 2163
+  xy: 2785, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0123
   rotate: false
-  xy: 3672, 2163
+  xy: 1520, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0124
   rotate: false
-  xy: 1773, 1890
+  xy: 1773, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0125
   rotate: false
-  xy: 1773, 1637
+  xy: 2026, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0126
   rotate: false
-  xy: 1773, 1384
+  xy: 2279, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0127
   rotate: false
-  xy: 1773, 1131
+  xy: 2532, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0128
   rotate: false
-  xy: 1773, 878
+  xy: 2785, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0129
   rotate: false
-  xy: 1773, 625
+  xy: 3038, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0130
   rotate: false
-  xy: 1773, 372
+  xy: 1773, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0131
   rotate: false
-  xy: 1773, 119
+  xy: 2026, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0132
   rotate: false
-  xy: 2026, 1910
+  xy: 2279, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0133
   rotate: false
-  xy: 2026, 1657
+  xy: 2532, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0134
   rotate: false
-  xy: 2279, 1910
+  xy: 2785, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0135
   rotate: false
-  xy: 2026, 1404
+  xy: 3038, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0136
   rotate: false
-  xy: 2279, 1657
+  xy: 3291, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0137
   rotate: false
-  xy: 2532, 1910
+  xy: 2026, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0138
   rotate: false
-  xy: 2026, 1151
+  xy: 2279, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0139
   rotate: false
-  xy: 2279, 1404
+  xy: 2532, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0140
   rotate: false
-  xy: 2532, 1657
+  xy: 2785, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0141
   rotate: false
-  xy: 2785, 1910
+  xy: 3038, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0142
   rotate: false
-  xy: 2026, 898
+  xy: 3291, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0143
   rotate: false
-  xy: 2279, 1151
+  xy: 3544, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0144
   rotate: false
-  xy: 2532, 1404
+  xy: 2279, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0145
   rotate: false
-  xy: 2785, 1657
+  xy: 2532, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0146
   rotate: false
-  xy: 3038, 1910
+  xy: 2785, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0147
   rotate: false
-  xy: 2026, 645
+  xy: 3038, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0148
   rotate: false
-  xy: 2279, 898
+  xy: 3291, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0149
   rotate: false
-  xy: 2532, 1151
+  xy: 3544, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0150
   rotate: false
-  xy: 2785, 1404
+  xy: 2532, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0151
   rotate: false
-  xy: 3038, 1657
+  xy: 2785, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0152
   rotate: false
-  xy: 3291, 1910
+  xy: 3038, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0153
   rotate: false
-  xy: 2026, 392
+  xy: 3291, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0154
   rotate: false
-  xy: 2279, 645
+  xy: 3544, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0155
   rotate: false
-  xy: 2532, 898
+  xy: 2785, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0156
   rotate: false
-  xy: 2785, 1151
+  xy: 3038, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0157
   rotate: false
-  xy: 3038, 1404
+  xy: 3291, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0158
   rotate: false
-  xy: 3291, 1657
+  xy: 3544, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0159
   rotate: false
-  xy: 3544, 1910
+  xy: 3038, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0160
   rotate: false
-  xy: 2026, 139
+  xy: 3291, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0161
   rotate: false
-  xy: 2279, 392
+  xy: 3544, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0162
   rotate: false
-  xy: 2532, 645
+  xy: 3291, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0163
   rotate: false
-  xy: 2785, 898
+  xy: 3544, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0164
   rotate: false
-  xy: 3038, 1151
+  xy: 3544, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0165
   rotate: false
-  xy: 3291, 1404
+  xy: 3797, 2145
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0166
   rotate: false
-  xy: 3544, 1657
+  xy: 3797, 1892
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0167
   rotate: false
-  xy: 2279, 139
+  xy: 3797, 1639
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0168
   rotate: false
-  xy: 2532, 392
+  xy: 3797, 1386
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0169
   rotate: false
-  xy: 2785, 645
+  xy: 3797, 1133
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0170
   rotate: false
-  xy: 3038, 898
+  xy: 3797, 880
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0171
   rotate: false
-  xy: 3291, 1151
+  xy: 3797, 627
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0172
   rotate: false
-  xy: 3544, 1404
+  xy: 1028, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0173
   rotate: false
-  xy: 2532, 139
+  xy: 1028, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0174
   rotate: false
-  xy: 2785, 392
+  xy: 1281, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0175
   rotate: false
-  xy: 3038, 645
+  xy: 1281, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0176
   rotate: false
-  xy: 3291, 898
+  xy: 1534, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0177
   rotate: false
-  xy: 3544, 1151
+  xy: 1534, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0178
   rotate: false
-  xy: 2785, 139
+  xy: 1787, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0179
   rotate: false
-  xy: 3038, 392
+  xy: 1787, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0180
   rotate: false
-  xy: 3291, 645
+  xy: 2040, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0181
   rotate: false
-  xy: 3544, 898
+  xy: 2040, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0182
   rotate: false
-  xy: 3038, 139
+  xy: 2293, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0183
   rotate: false
-  xy: 3291, 392
+  xy: 2293, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0184
   rotate: false
-  xy: 3544, 645
+  xy: 2546, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0185
   rotate: false
-  xy: 3291, 139
+  xy: 2546, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0186
   rotate: false
-  xy: 3544, 392
+  xy: 2799, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0187
   rotate: false
-  xy: 3544, 139
+  xy: 2799, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0188
   rotate: false
-  xy: 3797, 1910
+  xy: 3052, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0189
   rotate: false
-  xy: 3797, 1657
+  xy: 3052, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0190
   rotate: false
-  xy: 3797, 1404
+  xy: 3305, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0191
   rotate: false
-  xy: 3797, 1151
+  xy: 3305, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0192
   rotate: false
-  xy: 3797, 898
+  xy: 3558, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0193
   rotate: false
-  xy: 3797, 645
+  xy: 3558, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0194
   rotate: false
-  xy: 3797, 392
+  xy: 3811, 374
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 Portal/0195
   rotate: false
-  xy: 3797, 139
+  xy: 3811, 121
   size: 251, 251
   orig: 251, 251
   offset: 0, 0
   index: -1
 R_Chain10
-  rotate: false
-  xy: 3721, 99
+  rotate: true
+  xy: 4016, 2
   size: 37, 38
   orig: 37, 39
   offset: 0, 1
   index: -1
 R_Chain11
   rotate: false
-  xy: 3641, 99
+  xy: 964, 2358
   size: 39, 38
   orig: 41, 38
   offset: 1, 0
   index: -1
 R_Chain2
   rotate: true
-  xy: 892, 2
+  xy: 2220, 2
   size: 27, 45
   orig: 27, 45
   offset: 0, 0
   index: -1
 R_Chain3
   rotate: false
-  xy: 4010, 3382
+  xy: 817, 2654
   size: 35, 44
   orig: 35, 44
   offset: 0, 0
   index: -1
 R_Chain4
-  rotate: true
-  xy: 686, 2308
+  rotate: false
+  xy: 672, 2997
   size: 30, 44
   orig: 30, 44
   offset: 0, 0
   index: -1
 R_Chain5
   rotate: true
-  xy: 3558, 100
+  xy: 711, 2290
   size: 37, 40
   orig: 37, 41
   offset: 0, 0
   index: -1
 R_Chain6
-  rotate: true
-  xy: 632, 2976
+  rotate: false
+  xy: 3674, 2
   size: 43, 32
   orig: 43, 32
   offset: 0, 0
   index: -1
 R_Chain7
   rotate: true
-  xy: 3977, 3202
+  xy: 924, 2904
   size: 47, 29
   orig: 47, 30
   offset: 0, 1
   index: -1
 R_Chain8
   rotate: false
-  xy: 797, 2
+  xy: 2125, 2
   size: 46, 27
   orig: 46, 28
   offset: 0, 1
   index: -1
 R_Chain9
-  rotate: false
-  xy: 3600, 99
+  rotate: true
+  xy: 632, 2967
   size: 39, 38
   orig: 41, 38
   offset: 1, 0
   index: -1
 R_Spear1
   rotate: false
-  xy: 367, 2448
+  xy: 367, 2430
   size: 18, 287
   orig: 18, 287
   offset: 0, 0
   index: -1
 R_Spear2
   rotate: true
-  xy: 383, 3067
+  xy: 383, 3049
   size: 18, 287
   orig: 18, 287
   offset: 0, 0
   index: -1
 R_Spear3
   rotate: true
-  xy: 508, 11
+  xy: 2, 24
   size: 18, 287
   orig: 18, 287
   offset: 0, 0
   index: -1
 R_Spear4
   rotate: true
-  xy: 1299, 2902
+  xy: 2, 4
   size: 18, 283
   orig: 18, 283
   offset: 0, 0
   index: -1
 R_Stone1
-  rotate: false
-  xy: 3929, 2528
+  rotate: true
+  xy: 2513, 19
   size: 100, 124
   orig: 100, 124
   offset: 0, 0
   index: -1
 R_Stone2
-  rotate: false
-  xy: 3892, 3251
+  rotate: true
+  xy: 1134, 3
   size: 116, 175
   orig: 116, 175
   offset: 0, 0
   index: -1
 R_Torch
   rotate: true
-  xy: 1014, 15
+  xy: 3892, 3202
   size: 102, 171
   orig: 102, 171
   offset: 0, 0
   index: -1
 R_Torch_Light
-  rotate: false
-  xy: 255, 20
+  rotate: true
+  xy: 262, 327
   size: 65, 5
   orig: 66, 5
   offset: 0, 0
   index: -1
 Ring
   rotate: false
-  xy: 2, 3082
+  xy: 2, 3064
   size: 379, 344
   orig: 379, 344
   offset: 0, 0
   index: -1
 Ring_Atm
   rotate: true
-  xy: 1187, 10
+  xy: 1452, 12
   size: 107, 140
   orig: 107, 140
   offset: 0, 0
   index: -1
 Ring_Atm2
-  rotate: true
-  xy: 3929, 2781
+  rotate: false
+  xy: 1311, 3
   size: 139, 116
   orig: 139, 116
   offset: 0, 0
   index: -1
 Ring_Glow
   rotate: false
-  xy: 2, 2436
+  xy: 2, 2418
   size: 323, 299
   orig: 328, 304
   offset: 2, 2
   index: -1
 Ring_Light
   rotate: false
-  xy: 2, 2737
+  xy: 2, 2719
   size: 375, 343
   orig: 378, 343
   offset: 1, 0
   index: -1
 Shadow
   rotate: false
-  xy: 383, 3107
+  xy: 383, 3089
   size: 319, 319
   orig: 319, 319
   offset: 0, 0
   index: -1
 Symbo_Dark
   rotate: false
-  xy: 893, 2923
+  xy: 205, 2117
   size: 40, 46
   orig: 40, 46
   offset: 0, 0
   index: -1
 Symbol_Glow
   rotate: false
-  xy: 3399, 59
+  xy: 3976, 41
   size: 77, 78
   orig: 95, 99
   offset: 9, 10
   index: -1
 Symbol_Light
   rotate: false
-  xy: 813, 2417
+  xy: 458, 2242
   size: 40, 46
   orig: 40, 46
   offset: 0, 0
   index: -1
 Symbol_Stroke
   rotate: true
-  xy: 2420, 50
+  xy: 3021, 32
   size: 87, 125
   orig: 87, 125
   offset: 0, 0
   index: -1
 Symbol_Stroke_Shadow
-  rotate: false
-  xy: 3892, 3190
+  rotate: true
+  xy: 387, 2458
   size: 83, 59
   orig: 103, 76
   offset: 12, 8
