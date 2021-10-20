@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "/YbkMjMpHgNQl7rJ89tEB0WfYek",
+	"hash": "SIj8NuOdv5jmh2C86jIiK+7iBAw",
 	"spine": "3.8.99",
 	"x": -697.81,
 	"y": 172.94,
@@ -57,25 +57,15 @@
 	{ "name": "R_Chain9", "parent": "All", "x": 315.12, "y": 192.32 },
 	{ "name": "R_Chain10", "parent": "All", "x": 271.08, "y": 218.88 },
 	{ "name": "R_Chain11", "parent": "All", "length": 45, "rotation": -48.46, "x": 218.15, "y": 274.4 },
-	{
-		"name": "Flame",
-		"parent": "L_Torch",
-		"length": 100,
-		"rotation": 90,
-		"x": 4.63,
-		"y": 40.97,
-		"scaleX": 0.5,
-		"scaleY": 0.5
-	},
+	{ "name": "Flame", "parent": "L_Torch", "length": 100, "rotation": 90, "x": 4, "y": 32.64 },
 	{
 		"name": "Flame2",
 		"parent": "L_Torch",
 		"length": 100,
 		"rotation": 90,
-		"x": 1259.67,
-		"y": 40.97,
-		"scaleX": 0.5,
-		"scaleY": -0.5
+		"x": 1267.12,
+		"y": 46.56,
+		"scaleY": -1
 	}
 ],
 "slots": [
@@ -141,46 +131,46 @@
 		"name": "default",
 		"attachments": {
 			"Flame1": {
-				"Flame/Flame1": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame2": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame3": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame4": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame5": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame6": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame7": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame8": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame9": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame10": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame11": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame12": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame13": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame14": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame15": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame16": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame17": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame18": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame19": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 }
+				"Flame/Flame1": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 203, "height": 265 },
+				"Flame/Flame2": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 201, "height": 273 },
+				"Flame/Flame3": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 198, "height": 273 },
+				"Flame/Flame4": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 189, "height": 273 },
+				"Flame/Flame5": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 205, "height": 273 },
+				"Flame/Flame6": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 172, "height": 269 },
+				"Flame/Flame7": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 186, "height": 273 },
+				"Flame/Flame8": { "x": 81.6, "y": 11.33, "rotation": -90, "width": 187, "height": 223 },
+				"Flame/Flame9": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 198, "height": 261 },
+				"Flame/Flame10": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 182, "height": 241 },
+				"Flame/Flame11": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 182, "height": 249 },
+				"Flame/Flame12": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 199, "height": 249 },
+				"Flame/Flame13": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 194, "height": 244 },
+				"Flame/Flame14": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 211, "height": 238 },
+				"Flame/Flame15": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 201, "height": 252 },
+				"Flame/Flame16": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 224, "height": 263 },
+				"Flame/Flame17": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 228, "height": 245 },
+				"Flame/Flame18": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 203, "height": 250 },
+				"Flame/Flame19": { "x": 95.82, "y": 11.33, "rotation": -90, "width": 210, "height": 255 }
 			},
 			"Flame2": {
-				"Flame/Flame1": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame2": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame3": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame4": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame5": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame6": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame7": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame8": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame9": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame10": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame11": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame12": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame13": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame14": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame15": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame16": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame17": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame18": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 },
-				"Flame/Flame19": { "x": 225.32, "y": 30.95, "rotation": -90, "width": 500, "height": 600 }
+				"Flame/Flame1": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 203, "height": 265 },
+				"Flame/Flame2": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 201, "height": 273 },
+				"Flame/Flame3": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 198, "height": 273 },
+				"Flame/Flame4": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 189, "height": 273 },
+				"Flame/Flame5": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 205, "height": 273 },
+				"Flame/Flame6": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 172, "height": 269 },
+				"Flame/Flame7": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 186, "height": 273 },
+				"Flame/Flame8": { "x": 77.95, "y": 14.19, "rotation": -90, "width": 187, "height": 223 },
+				"Flame/Flame9": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 198, "height": 261 },
+				"Flame/Flame10": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 182, "height": 241 },
+				"Flame/Flame11": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 182, "height": 249 },
+				"Flame/Flame12": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 199, "height": 249 },
+				"Flame/Flame13": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 194, "height": 244 },
+				"Flame/Flame14": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 211, "height": 238 },
+				"Flame/Flame15": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 201, "height": 252 },
+				"Flame/Flame16": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 224, "height": 263 },
+				"Flame/Flame17": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 228, "height": 245 },
+				"Flame/Flame18": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 203, "height": 250 },
+				"Flame/Flame19": { "x": 93.11, "y": 14.19, "rotation": -90, "width": 210, "height": 255 }
 			},
 			"GoldenRing_L": {
 				"GoldenRing_L": { "x": 170.48, "y": -47.97, "width": 402, "height": 810 }
@@ -2103,6 +2093,7 @@
 				}
 			}
 		}
-	}
+	},
+	"Gate_Unactive": {}
 }
 }
