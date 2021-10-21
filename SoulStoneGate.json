@@ -5,9 +5,7 @@
 	"x": -697.81,
 	"y": 172.94,
 	"width": 1429.31,
-	"height": 934.15,
-	"images": "./Images/",
-	"audio": "Z:/Faraland/SoulStoneGate"
+	"height": 934.15
 },
 "bones": [
 	{ "name": "root" },
